@@ -134,5 +134,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
- .pathao_ssh_key
- .pathao_ssh_key.pub
+pathao_ssh_key
+pathao_ssh_key.pub
