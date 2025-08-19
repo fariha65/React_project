@@ -1,0 +1,3 @@
+[submodule "pill-splitter-challenge"]
+	path = pill-splitter-challenge
+	url = git@github.com:fariha65/pill-splitter-challenge.git
